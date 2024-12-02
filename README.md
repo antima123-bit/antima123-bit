@@ -1,5 +1,5 @@
 HEY! 
-Hi, I'm Antima Mishra A Sophomore Student and a passionate Developer From India , exploring the world of ML. I love Building cazy Stuff From Window a using web and native Technologies!
+Hi, I'm Antima Mishra am passionate Software Developer From India , exploring the world of ML/AI and Data Science. I love Building cazy Stuff From Window a using web and native Technologies!
 I Miainly build products in the Native app space and a "lot" experiments with the latest tech in Frontend Ecosysytem.
 - 👋 Hi, I’m @antima123-bit
 - 👀 I’m interested in Data Science, AI-ML
